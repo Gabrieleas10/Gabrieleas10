@@ -5,3 +5,7 @@
 
 # I'm a Data Scientist in Conjecto BI Solutions focused in:
 
+
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+
