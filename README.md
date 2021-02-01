@@ -9,5 +9,5 @@
 - 🌱 Lifelong Learning.
 - 🤝 I’m looking to collaborate on data science and deep learning projects to evaluate the company.
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Gabrieleas10)
 
