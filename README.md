@@ -1,9 +1,8 @@
-# I'm Gabriel Silveira
-
 ## print('Hello World!') 👋
+# I'm Gabriel Silveira
 ## Data Scientist in Conjecto BI Solutions focused in:
 
-- 🔭 Strong skills: Python, SQL, R , ML and AI.
+- 🔭 Strong skills: Python, SQL, R , ML, AI , RPA and BI.
 - 🌱 Lifelong Learning.
 - 🤝 I’m looking to collaborate on data science and deep learning projects to evaluate the company.
 - :fire: Problem Solving.
