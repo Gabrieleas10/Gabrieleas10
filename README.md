@@ -1,6 +1,6 @@
 ## print('Hello World!') 👋
 # I'm Gabriel Silveira
-## Data Scientist in FortBrasil focused in:
+## Data Scientist in IBM focused in:
 
 - 🔭 Strong skills: Python, SQL, Statistics , ML, RPA and BI.
 - 🌱 Lifelong Learning.
